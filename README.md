@@ -29,5 +29,5 @@ Here are some quick things about me:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snakehacker&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snakehacker&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snakehacker&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?snakehacker=kevwan&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snakehacker&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snakehacker&theme=github)
